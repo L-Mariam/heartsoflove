@@ -16,8 +16,10 @@ body, html {
     padding: 0;
   } 
 
-  .content{
+  .content-about{
     margin: 0% 5%;
+    padding-top: 100px;
+    padding-bottom: 100px;
   }
 
   .aintro{
@@ -69,19 +71,19 @@ body, html {
     }
   }
 
-  a:link {
+  .about:link {
     color: rgb(0, 0, 0);
     text-decoration: underline;
   }
   
   /* visited link */
-  a:visited {
+  .about:visited {
     color: rgb(47, 90, 230);
     text-decoration: underline;
   }
   
   /* mouse over link */
-  a:hover {
+  .about:hover {
     color: rgb(18, 193, 224);
     text-decoration: underline;
   }

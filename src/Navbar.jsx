@@ -15,15 +15,15 @@ function Navbar() {
     <header>
       <div class="left">
           <img src={logo}></img>
-          <p>Hearts Of Love</p>
+          <p>Hearts of Love</p>
       </div>
-      <div>
+      <div class="right">
           <Link to="/">Home</Link>
           <Link to="/about">About</Link>
           <Link to="/join">Join Us</Link>
           <Link to="/resources">Resources</Link>
           <Link to="/shop">Shop</Link>
-          <button onClick={() => setButtonPopup(true)}> Contact Us </button>  
+          <button onClick={() => setButtonPopup(true)} className="contact-us"> Contact Us </button>  
       </div>
 
       <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>

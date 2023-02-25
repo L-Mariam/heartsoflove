@@ -132,9 +132,9 @@ function About() {
     return (
         <>
         <div class="bg-about"></div>
-        <div class="content">
+        <div class="content-about">
             <section class="aintro">
-                <h1>Our mission:</h1>
+                <h1>Our Mission:</h1>
                 <p>We are an organization striving to assist those in need of help to ensure comfort and consolation in relation to those who are disadvantaged.
                     Especially due to the Covid-19 pandemic, many civillians are in despair and are requesting for financial aid as well as other methods of support.
                     We aim to help those who are homeless, disadvantaged, or inconvenienced in order to achieve a well ordered society. By doing so, we can establish a superior lifestyle and provide shelter,
@@ -156,7 +156,7 @@ function About() {
                 </div>
             </section>
             <section class="avalues">
-                <h1 style={{ color: '#a42430' }}>Our values:</h1>
+                <h1 style={{ color: '#a42430' }}>Our Values:</h1>
                 <p>We strongly value our team members as well as supporters, as our #1 goal is to restore kindness and encourage others to reach out to those in need of help.
                     We firmly believe that achieving equality is essential and we can do so by supplying various resources to those who have been put into a disadvantage. From this, 
                     we can gain goodwill throughout all of society, securing our true goal of selflessness and sympathy.
@@ -172,7 +172,7 @@ function About() {
                 <p>Are you interested in initiating a new chapter and gaining leadership? If so, 
                     look into this link to get more details for beginning a chapter!
                 </p>
-                <a href="https://docs.google.com/document/d/13L6dgCqwFmRD5GCJOMAYO7LhyiEDE087cLMdARDtDCo/edit">https://docs.google.com/document/d/13L6dgCqwFmRD5GCJOMAYO7LhyiEDE087cLMdARDtDCo/edit</a>
+                <a href="https://docs.google.com/document/d/13L6dgCqwFmRD5GCJOMAYO7LhyiEDE087cLMdARDtDCo/edit" class="about">https://docs.google.com/document/d/13L6dgCqwFmRD5GCJOMAYO7LhyiEDE087cLMdARDtDCo/edit</a>
             </section>
             <section class="aevents">
                 <h1 style={{ color: '#a42430' }}>Events</h1>

@@ -6,7 +6,7 @@ function Resources() {
     return (
         <>
         <div class="bg-resources"></div>
-        <div class="content">
+        <div class="content-resources">
         <section class="cards">
             {/* card 1 */}
             <a href="" title="Go to our Newsletters">

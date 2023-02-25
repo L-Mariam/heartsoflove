@@ -20,7 +20,7 @@ function Join() {
                 </p>
                     <br/>
                     <p>Guide:</p>
-                    <a href="https://www.shorturl.at/hRT35">https://www.shorturl.at/hRT35</a>
+                    <a href="https://www.shorturl.at/hRT35"  class="join">https://www.shorturl.at/hRT35</a>
                         <img src={guide}></img>
             </section>
             <section class="jpartners">
@@ -28,9 +28,9 @@ function Join() {
                 <p>Would you like to partner with us? View our partnership guide. Would you like to sponsor our many events? View our sponsoship guide.
                 <br/>
                 <p>Partnership Guide:</p>
-                    <a href="https://docs.google.com/document/d/1kGBv1cQDpJnLfaDYxR3_lFiJdEWFxEE4Rqq7FOaGLZQ/edit">https://docs.google.com/document/d/1kGBv1cQDpJnLfaDYxR3_lFiJdEWFxEE4Rqq7FOaGLZQ/edit</a>
+                    <a href="https://docs.google.com/document/d/1kGBv1cQDpJnLfaDYxR3_lFiJdEWFxEE4Rqq7FOaGLZQ/edit"  class="join">https://docs.google.com/document/d/1kGBv1cQDpJnLfaDYxR3_lFiJdEWFxEE4Rqq7FOaGLZQ/edit</a>
                 <p>Sponsorship Guide:</p>
-                    <a href="https://docs.google.com/document/d/1mjHVq2c_9rork1arxWy12FW8aUZTJKY0IvbzVuWenWA/edit">https://docs.google.com/document/d/1mjHVq2c_9rork1arxWy12FW8aUZTJKY0IvbzVuWenWA/edit</a>
+                    <a href="https://docs.google.com/document/d/1mjHVq2c_9rork1arxWy12FW8aUZTJKY0IvbzVuWenWA/edit"  class="join">https://docs.google.com/document/d/1mjHVq2c_9rork1arxWy12FW8aUZTJKY0IvbzVuWenWA/edit</a>
                 </p>
                 <div class="row">
                         <img src={writing}></img>
