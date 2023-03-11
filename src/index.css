@@ -1,3 +1,4 @@
+
 *{
   margin: 0;
   padding: 0;
@@ -39,9 +40,8 @@ header p{
   font-family:'Times New Roman', Times, serif;
 }
 
-header a{
-  font-family: 'Oswald', sans-serif;
-  padding: 30px;
+header a:hover{
+  color: #38B6FF;
 }
 
 header button.contact-us{
@@ -51,16 +51,11 @@ header button.contact-us{
   padding: 10px;
   padding-right: 15px;
   padding-left: 15px;
-  float: right;
 }
 
 header button.contact-us:hover{
   color: #38B6FF;
   cursor: pointer;
-}
-
-header a:hover{
-  color: #38B6FF;
 }
 /*********FOOTER*********/
 footer{
