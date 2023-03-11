@@ -22,8 +22,8 @@ function Home() {
         <>
         <div class="bg-home">
             <div class="button-link">
-            <a>Learn More</a>
-            <a target="_blank" href="https://discord.gg/UgXPFdwgnV">Join Us</a>
+            <a class="home-button">Learn More</a>
+            <a target="_blank" href="https://discord.gg/UgXPFdwgnV" class="home-button">Join Us</a>
             </div>
         </div>
         <div class="content">

@@ -140,7 +140,7 @@ function About() {
     return (
         <>
         <div class="bg-about"></div>
-        <div class="content">
+        <div class="content-about">
             <section class="aintro">
                 <h1>Our mission:</h1>
                 <p>We are an organization striving to assist those in need of help to ensure comfort and consolation in relation to those who are disadvantaged.
@@ -245,7 +245,7 @@ function About() {
                 <p>Are you interested in initiating a new chapter and gaining leadership? If so, 
                     look into this link to get more details for beginning a chapter!
                 </p>
-                <a href="https://docs.google.com/document/d/13L6dgCqwFmRD5GCJOMAYO7LhyiEDE087cLMdARDtDCo/edit">Begin a Chapter!</a>
+                <a href="https://docs.google.com/document/d/13L6dgCqwFmRD5GCJOMAYO7LhyiEDE087cLMdARDtDCo/edit" class="about">Begin a Chapter!</a>
             </section>
             <section class="aevents">
                 <h1 style={{ color: '#a42430' }}>Events</h1>

@@ -16,8 +16,9 @@ body, html {
     padding: 0;
   } 
 
-  .content{
+  .bg-content{
     margin: 0% 5%;
+    padding-top: 100px;
   }
 
   .jintro{
@@ -57,19 +58,19 @@ body, html {
     transform: scale(0.7);
   }
 
-  a:link {
+  .join:link {
     color: rgb(0, 0, 0);
     text-decoration: underline;
   }
   
   /* visited link */
-  a:visited {
+  .join:visited {
     color: rgb(0, 0, 0);
     text-decoration: underline;
   }
   
   /* mouse over link */
-  a:hover {
+  .join:hover {
     color: rgb(18, 193, 224);
     text-decoration: underline;
   }
